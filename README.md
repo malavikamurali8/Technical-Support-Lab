@@ -24,11 +24,6 @@ ipconfig
 
 ping google.com
 
-Screenshots
-Before Fix
-Troubleshooting
-After Fix
-
 ## Prevention
 - Ensure stable Wi-Fi connection
 - Validate DNS configuration
