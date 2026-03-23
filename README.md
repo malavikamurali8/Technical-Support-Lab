@@ -27,4 +27,4 @@ ping google.com
 ## Open Terminal and run
 ping google.com
 
-ping ipconfig ip address
+ipconfig ip address
