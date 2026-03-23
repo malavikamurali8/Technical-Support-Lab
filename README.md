@@ -24,7 +24,12 @@ ipconfig
 
 ping google.com
 
-## Open Terminal and run
-ping google.com
+Screenshots
+Before Fix
+Troubleshooting
+After Fix
 
-ipconfig ip address
+## Prevention
+- Ensure stable Wi-Fi connection
+- Validate DNS configuration
+- Regular network checks
