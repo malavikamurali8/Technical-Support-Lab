@@ -20,7 +20,7 @@ User reported that the system was unable to access the internet.
 5. Reconnected Wi-Fi / corrected DNS settings
 
 ## Commands Used
-ifconfig
+ipconfig
 
 ping google.com
 
