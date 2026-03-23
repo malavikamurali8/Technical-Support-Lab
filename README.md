@@ -21,8 +21,10 @@ User reported that the system was unable to access the internet.
 
 ## Commands Used
 ifconfig
+
 ping google.com
 
 ## Open Terminal and run
 ping google.com
+
 ping ipconfig ip address
